@@ -628,5 +628,13 @@
     "startDate": "2024-12-02",
     "endDate": "2024-12-03",
     "imageUrl": "https://www.ethvenice.com/images/logo.png"
-  }
+  },
+  { 
+    "title": "Encode London Research Conference and Hackathon, 2024",
+    "href": "https://www.encode.club/encodelondon-24/?utm_source=zxrixq&utm_campaign=e0401_external_etheriumevents&utm_content=eventplatform",
+    "location": "London, UK",
+    "description": "Join us for a fun-filled 3-day research conference and hackathon, right in the centre of London.",
+    "startDate": "2024-10-25",
+    "endDate": "2024-10-27",
+  },
 ]
